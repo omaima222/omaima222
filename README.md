@@ -1,5 +1,5 @@
 # 👋 Hi there!
-I'm Oumaima, a full stack web developer and student.</br> I became interested in coding and problem-solving while creating a calculator in Python when I was 15, and now I'm on a journey to learn how to create more and how to do it best!</br>
+I'm Oumaima, a full stack web developer.</br> I became interested in coding and problem-solving while creating a calculator in Python when I was 15, and now I'm on a journey to learn how to create more and how to do it best!</br>
 
 
 
